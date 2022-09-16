@@ -17,7 +17,7 @@ const Footer = () => {
                     Design by Your Name
                 </div>
                 <div className='sns-links'>
-                    <a href='www.linkedin.com/in/jonathan-redrado-3838a3206' target="_blank" rel="noreferrer">
+                    <a href='https://www.linkedin.com/in/jonathan-redrado-3838a3206' target="_blank" rel="noreferrer">
                         <i className='fab fa-linkedin linkedin'></i>
                     </a>
                     <a href='https://github.com/JoniRedrado' target="_blank" rel="noreferrer">
