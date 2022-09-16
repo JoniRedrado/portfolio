@@ -19,3 +19,8 @@
     color: white;
     cursor: pointer;
 }
+
+.navbar-logo > img {
+    height: 100%;
+    border-radius: 50%;
+}

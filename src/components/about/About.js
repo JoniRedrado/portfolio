@@ -8,7 +8,7 @@ const About = () => {
 
             <div className='about-desc'>
                 <h3>Let me tell you something about me</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, ullam expedita exercitationem tempore odit optio eius, sunt labore, veritatis laudantium earum ab consequuntur debitis necessitatibus tempora totam delectus voluptates culpa.</p>
+                <p>I'm a Fullstack Web Developer, with an emphasis on React.js. I have knowledge of HTML, CSS, JavaScript, NodeJS and mySQL. I am looking for my first job in the IT world, eager to learn and develop as a professional. Open to exploring new technologies.</p>
             </div>
             <div className='about-img'>
                 <img src={profilePicture} alt='ProfilePicture' />

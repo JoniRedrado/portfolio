@@ -52,7 +52,7 @@
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.linkedin, .fa-github, .facebook {
+.linkedin, .fa-github, .fa-whatsapp {
     color: white;
     font-size: 35px;
     margin: 0 auto;
@@ -60,7 +60,7 @@
     border-bottom: 4px solid transparent;
 }
 
-.linkedin:hover, .fa-github:hover, .facebook:hover {
+.linkedin:hover, .fa-github:hover, .fa-whatsapp:hover {
     border-color: white;
     transition: all 0.3s ease-out;
 }

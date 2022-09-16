@@ -5,8 +5,8 @@ const Footer = () => {
     return (
         <footer className='footer'>
             <div className='footer-info'>
-                <h1>Your name</h1>
-                <p>Based in Your City</p>
+                <h1>Jonathan Redrado</h1>
+                <p>Fullstack Web Developer</p>
             </div>
             <div className='footer-contact'>
                 <h3>Contact me</h3>
@@ -14,7 +14,7 @@ const Footer = () => {
             </div>
             <div className='footer-sns'>
                 <div className='design-by'>
-                    Design by Your Name
+                    Design by Jonathan Redrado
                 </div>
                 <div className='sns-links'>
                     <a href='https://www.linkedin.com/in/jonathan-redrado-3838a3206' target="_blank" rel="noreferrer">
@@ -23,8 +23,8 @@ const Footer = () => {
                     <a href='https://github.com/JoniRedrado' target="_blank" rel="noreferrer">
                         <i className='fab fa-brands fa-github'></i>
                     </a>
-                    <a href='https://facebook.com' target="_blank" rel="noreferrer">
-                        <i className='fab fa-facebook facebook'></i>
+                    <a href='https://wa.me/541168212905' target="_blank" rel="noreferrer">
+                    <i class="fa-brands fa-whatsapp"></i>
                     </a>
                 </div>
             </div>    
