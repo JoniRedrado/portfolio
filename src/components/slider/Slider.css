@@ -24,7 +24,8 @@
 }
 
 .slide-container > img {
-    object-fit: contain;
+    height: 100%;
+    margin-left: -60px;
     transition: all 0.2s ease-in-out;
 }
 
