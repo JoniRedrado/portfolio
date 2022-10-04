@@ -7,18 +7,19 @@ const slidesInfo = [
         src: "https://i.ibb.co/r0QQ7GS/tateti.png",
         alt:"Project 1",
         desc:"TA-TE-TI",
-        link:"https://tatetijr.netlify.app"
+        link:"https://github.com/JoniRedrado/tic-tac-toe"
     },
     {
         src: "https://i.ibb.co/tM16YtJ/countries-wiki.png",
         alt:"Project 2",
         desc:"Countries Wiki",
-        link:"https://countrieswiki.herokuapp.com"
+        link:"https://github.com/JoniRedrado/countries-wiki"
     },
     {
-        src: "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
+        src: "https://i.ibb.co/YZ4Cwqs/todolist.png",
         alt:"Project 3",
-        desc:"To do list"
+        desc:"To do list",
+        link: "https://github.com/JoniRedrado/todolist-react"
     }
 ]
 
