@@ -1,0 +1,15 @@
+VERSION=1.0.0
+
+json:
+	json -I -f package.json -e 'this.version="$(VERSION)"' 
+
+serve:
+	npm run build
+	firebase serve
+
+deploy: json
+	npm run build
+	firebase deploy
+
+ngrok:
+	../../../Documentos/ngrok/ngrok http 8080 --host-header localhost
