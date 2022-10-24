@@ -9,6 +9,7 @@ const Slider = () => {
         <div className='carousel-container'>
             <div className='carousel-title'>
                 <h2>My Projects</h2>
+                <p className='carousel-info'>The code of every project is on my <a href='https://github.com/JoniRedrado' target="_blank" rel="noreferrer">GitHub</a></p>
             </div>
             
             <Carousel 
