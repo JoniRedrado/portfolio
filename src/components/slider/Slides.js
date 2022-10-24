@@ -7,19 +7,19 @@ const slidesInfo = [
         src: "https://i.ibb.co/r0QQ7GS/tateti.png",
         alt:"Project 1",
         desc:"TA-TE-TI",
-        link:"https://github.com/JoniRedrado/tic-tac-toe"
+        link:"https://tictactoe-jr.web.app/"
     },
     {
         src: "https://i.ibb.co/tM16YtJ/countries-wiki.png",
         alt:"Project 2",
         desc:"Countries Wiki",
-        link:"https://github.com/JoniRedrado/countries-wiki"
+        link:"https://countries-wiki-jr.web.app/"
     },
     {
         src: "https://i.ibb.co/YZ4Cwqs/todolist.png",
         alt:"Project 3",
         desc:"To do list",
-        link: "https://github.com/JoniRedrado/todolist-react"
+        link: "https://to-do-list-jr.web.app/"
     }
 ]
 
